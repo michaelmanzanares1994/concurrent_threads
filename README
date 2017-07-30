@@ -1,0 +1,22 @@
+//////////////////////////////////////////////////////////
+Stephen Summy (cssc1103) and Michael Manzanares (cssc1125)
+CS570 Summer 2017
+Assignment #1, Process Manager
+README
+//////////////////////////////////////////////////////////
+
+This project includes: 
+README.txt
+a1.c
+a1.h
+makefile
+QUOTE.txt
+bots 
+
+To compile the project, type "make" into the terminal. 
+To run the compiled project, type "./bots" into the terminal.
+The program should run correctly in all situations. 
+
+We learned about the implementation of semaphores and how to work with individual
+threads. 
+We learned how to work comfortably in VIM. 
